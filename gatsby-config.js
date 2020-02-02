@@ -1,11 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Le Bellovidère - Théatre à taille humaine`,
+    description: `Depuis toujours lieu de vie du village de Beauvoir, Le Bellovidère est une salle de spectacle pluridisciplinaire depuis 2008.`,
+    author: `Nicolas Delarbre`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "content",
+        path: `${__dirname}/content`,
+      },
+    },
+    {
+      resolve: "gatsby-transformer-remark",
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

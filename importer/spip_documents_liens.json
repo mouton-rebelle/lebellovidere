@@ -1,0 +1,2876 @@
+[
+  {
+    "id_document": 1,
+    "id_objet": 4,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 3,
+    "id_objet": 4,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 5,
+    "id_objet": 4,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 7,
+    "id_objet": 4,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 9,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 13,
+    "id_objet": 50,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 14,
+    "id_objet": 50,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 15,
+    "id_objet": 15,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 15,
+    "id_objet": 50,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 17,
+    "id_objet": 1,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 18,
+    "id_objet": 1,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 19,
+    "id_objet": 1,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 20,
+    "id_objet": 1,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 21,
+    "id_objet": 21,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 22,
+    "id_objet": 21,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 23,
+    "id_objet": 21,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 24,
+    "id_objet": 21,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 25,
+    "id_objet": 20,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 26,
+    "id_objet": 20,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 27,
+    "id_objet": 20,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 28,
+    "id_objet": 20,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 29,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 30,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 31,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 32,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 33,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 34,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 35,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 36,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 37,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 38,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 39,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 40,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 41,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 42,
+    "id_objet": 6,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 43,
+    "id_objet": 22,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 44,
+    "id_objet": 22,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 45,
+    "id_objet": 22,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 46,
+    "id_objet": 22,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 47,
+    "id_objet": 7,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 48,
+    "id_objet": 7,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 49,
+    "id_objet": 7,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 50,
+    "id_objet": 7,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 51,
+    "id_objet": 12,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 52,
+    "id_objet": 12,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 53,
+    "id_objet": 8,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 54,
+    "id_objet": 8,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 55,
+    "id_objet": 8,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 56,
+    "id_objet": 8,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 57,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 58,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 59,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 60,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 61,
+    "id_objet": 11,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 61,
+    "id_objet": 28,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 62,
+    "id_objet": 11,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 62,
+    "id_objet": 28,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 63,
+    "id_objet": 10,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 64,
+    "id_objet": 10,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 65,
+    "id_objet": 10,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 66,
+    "id_objet": 9,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 67,
+    "id_objet": 9,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 68,
+    "id_objet": 9,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 69,
+    "id_objet": 2,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 70,
+    "id_objet": 2,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 72,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 73,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 74,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 75,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 76,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 77,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 78,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 79,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 80,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 81,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 82,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 83,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 84,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 85,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 86,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 87,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 88,
+    "id_objet": 38,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 89,
+    "id_objet": 36,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 91,
+    "id_objet": 35,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 92,
+    "id_objet": 33,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 93,
+    "id_objet": 33,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 94,
+    "id_objet": 33,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 95,
+    "id_objet": 33,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 96,
+    "id_objet": 33,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 97,
+    "id_objet": 34,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 98,
+    "id_objet": 34,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 99,
+    "id_objet": 34,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 100,
+    "id_objet": 34,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 101,
+    "id_objet": 37,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 102,
+    "id_objet": 37,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 103,
+    "id_objet": 39,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 104,
+    "id_objet": 39,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 107,
+    "id_objet": 39,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 108,
+    "id_objet": 39,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 109,
+    "id_objet": 39,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 110,
+    "id_objet": 39,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 111,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 112,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 113,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 114,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 115,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 116,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 117,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 118,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 119,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 120,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 121,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 122,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 123,
+    "id_objet": 43,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 124,
+    "id_objet": 43,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 125,
+    "id_objet": 42,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 126,
+    "id_objet": 42,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 127,
+    "id_objet": 42,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 128,
+    "id_objet": 41,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 129,
+    "id_objet": 41,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 130,
+    "id_objet": 45,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 131,
+    "id_objet": 45,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 132,
+    "id_objet": 45,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 133,
+    "id_objet": 45,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 135,
+    "id_objet": 46,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 136,
+    "id_objet": 44,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 137,
+    "id_objet": 44,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 138,
+    "id_objet": 44,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 139,
+    "id_objet": 48,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 140,
+    "id_objet": 48,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 141,
+    "id_objet": 48,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 142,
+    "id_objet": 48,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 145,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 146,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 147,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 148,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 149,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 150,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 151,
+    "id_objet": 3,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 152,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 153,
+    "id_objet": 51,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 169,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 170,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 171,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 172,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 173,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 174,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 175,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 177,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 178,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 179,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 180,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 181,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 182,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 183,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 184,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 185,
+    "id_objet": 14,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 186,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 187,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 188,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 189,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 190,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 191,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 193,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 194,
+    "id_objet": 11,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 195,
+    "id_objet": 11,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 196,
+    "id_objet": 12,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 198,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 199,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 200,
+    "id_objet": 13,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 214,
+    "id_objet": 27,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 216,
+    "id_objet": 27,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 217,
+    "id_objet": 27,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 219,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 220,
+    "id_objet": 32,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 226,
+    "id_objet": 60,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 227,
+    "id_objet": 60,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 228,
+    "id_objet": 60,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 230,
+    "id_objet": 59,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 230,
+    "id_objet": 62,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 231,
+    "id_objet": 59,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 234,
+    "id_objet": 52,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 238,
+    "id_objet": 19,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 239,
+    "id_objet": 19,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 240,
+    "id_objet": 19,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 241,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 242,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 244,
+    "id_objet": 40,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 245,
+    "id_objet": 57,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 246,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 247,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 248,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 249,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 250,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 251,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 252,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 253,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 254,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 255,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 256,
+    "id_objet": 61,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 257,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 258,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 259,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 260,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 261,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 262,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 263,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 264,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 265,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 266,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 267,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 268,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 269,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 270,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 272,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 273,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 277,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 278,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 282,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 283,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 284,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 285,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 288,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 290,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 291,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 292,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 293,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 294,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 295,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 296,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 297,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 298,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 299,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 300,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 301,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 302,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 303,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 304,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 305,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 306,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 307,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 308,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 309,
+    "id_objet": 31,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 310,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 311,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 312,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 313,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 317,
+    "id_objet": 32,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 318,
+    "id_objet": 32,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 319,
+    "id_objet": 32,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 320,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 321,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 322,
+    "id_objet": 18,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 323,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 324,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 325,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 326,
+    "id_objet": 26,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 327,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 328,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 329,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 330,
+    "id_objet": 23,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 331,
+    "id_objet": 52,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 332,
+    "id_objet": 24,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 334,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 339,
+    "id_objet": 69,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 340,
+    "id_objet": 69,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 341,
+    "id_objet": 69,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 342,
+    "id_objet": 69,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 343,
+    "id_objet": 68,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 344,
+    "id_objet": 68,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 345,
+    "id_objet": 68,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 346,
+    "id_objet": 68,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 347,
+    "id_objet": 67,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 348,
+    "id_objet": 67,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 349,
+    "id_objet": 67,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 350,
+    "id_objet": 67,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 351,
+    "id_objet": 66,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 352,
+    "id_objet": 66,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 353,
+    "id_objet": 66,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 356,
+    "id_objet": 79,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 357,
+    "id_objet": 76,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 360,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 361,
+    "id_objet": 76,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 362,
+    "id_objet": 76,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 363,
+    "id_objet": 76,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 364,
+    "id_objet": 76,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 365,
+    "id_objet": 76,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 369,
+    "id_objet": 79,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 370,
+    "id_objet": 79,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 371,
+    "id_objet": 79,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 372,
+    "id_objet": 77,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 373,
+    "id_objet": 77,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 374,
+    "id_objet": 77,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 375,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 376,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 377,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 378,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 379,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 380,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 381,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 382,
+    "id_objet": 78,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 383,
+    "id_objet": 80,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 384,
+    "id_objet": 80,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 385,
+    "id_objet": 80,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 388,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 389,
+    "id_objet": 88,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 399,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 400,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 402,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 403,
+    "id_objet": 85,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 404,
+    "id_objet": 85,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 405,
+    "id_objet": 85,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 406,
+    "id_objet": 84,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 407,
+    "id_objet": 84,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 408,
+    "id_objet": 84,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 409,
+    "id_objet": 103,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 410,
+    "id_objet": 103,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 411,
+    "id_objet": 103,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 412,
+    "id_objet": 99,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 413,
+    "id_objet": 99,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 414,
+    "id_objet": 99,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 415,
+    "id_objet": 100,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 416,
+    "id_objet": 100,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 417,
+    "id_objet": 100,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 418,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 420,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 421,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 422,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 423,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 424,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 425,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 426,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 427,
+    "id_objet": 101,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 431,
+    "id_objet": 105,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 432,
+    "id_objet": 105,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 434,
+    "id_objet": 106,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 435,
+    "id_objet": 106,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 436,
+    "id_objet": 107,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 439,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 440,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 441,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 445,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 450,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 451,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 452,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 453,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 454,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 455,
+    "id_objet": 107,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 456,
+    "id_objet": 107,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 457,
+    "id_objet": 107,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 458,
+    "id_objet": 106,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 459,
+    "id_objet": 106,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 460,
+    "id_objet": 106,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 461,
+    "id_objet": 106,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 462,
+    "id_objet": 105,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 463,
+    "id_objet": 105,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 464,
+    "id_objet": 105,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 465,
+    "id_objet": 105,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 466,
+    "id_objet": 107,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 467,
+    "id_objet": 108,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 468,
+    "id_objet": 51,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 469,
+    "id_objet": 51,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 470,
+    "id_objet": 51,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 471,
+    "id_objet": 51,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 471,
+    "id_objet": 65,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 472,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 474,
+    "id_objet": 118,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 475,
+    "id_objet": 118,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 476,
+    "id_objet": 118,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 477,
+    "id_objet": 118,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 478,
+    "id_objet": 120,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 480,
+    "id_objet": 120,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 482,
+    "id_objet": 120,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 483,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 484,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 485,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 486,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 487,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 488,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 489,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 490,
+    "id_objet": 116,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 491,
+    "id_objet": 115,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 492,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 492,
+    "id_objet": 115,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 493,
+    "id_objet": 115,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 494,
+    "id_objet": 115,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 495,
+    "id_objet": 115,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 497,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 498,
+    "id_objet": 132,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 500,
+    "id_objet": 124,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 501,
+    "id_objet": 124,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 502,
+    "id_objet": 124,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 503,
+    "id_objet": 124,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 504,
+    "id_objet": 125,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 505,
+    "id_objet": 125,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 506,
+    "id_objet": 125,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 507,
+    "id_objet": 125,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 508,
+    "id_objet": 122,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 509,
+    "id_objet": 122,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 510,
+    "id_objet": 122,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 511,
+    "id_objet": 122,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 512,
+    "id_objet": 123,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 513,
+    "id_objet": 123,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 514,
+    "id_objet": 123,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 515,
+    "id_objet": 123,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 516,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 519,
+    "id_objet": 58,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 520,
+    "id_objet": 5,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 521,
+    "id_objet": 142,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 522,
+    "id_objet": 142,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 523,
+    "id_objet": 142,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 524,
+    "id_objet": 142,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 525,
+    "id_objet": 141,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 526,
+    "id_objet": 141,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 527,
+    "id_objet": 139,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 528,
+    "id_objet": 139,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 529,
+    "id_objet": 139,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 530,
+    "id_objet": 139,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 531,
+    "id_objet": 138,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 532,
+    "id_objet": 137,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 533,
+    "id_objet": 137,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 534,
+    "id_objet": 137,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 535,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 536,
+    "id_objet": 140,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 537,
+    "id_objet": 140,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 538,
+    "id_objet": 140,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 539,
+    "id_objet": 140,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 540,
+    "id_objet": 140,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 541,
+    "id_objet": 140,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 542,
+    "id_objet": 144,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 543,
+    "id_objet": 144,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 544,
+    "id_objet": 144,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 545,
+    "id_objet": 144,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 546,
+    "id_objet": 144,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 548,
+    "id_objet": 145,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 549,
+    "id_objet": 145,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 550,
+    "id_objet": 145,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 551,
+    "id_objet": 145,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 552,
+    "id_objet": 146,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 553,
+    "id_objet": 146,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 554,
+    "id_objet": 146,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 555,
+    "id_objet": 146,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 556,
+    "id_objet": 148,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 557,
+    "id_objet": 148,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 558,
+    "id_objet": 148,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 559,
+    "id_objet": 148,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 560,
+    "id_objet": 147,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 561,
+    "id_objet": 147,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 562,
+    "id_objet": 147,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 563,
+    "id_objet": 147,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 564,
+    "id_objet": 147,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 565,
+    "id_objet": 149,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 566,
+    "id_objet": 149,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 567,
+    "id_objet": 149,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 568,
+    "id_objet": 149,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 569,
+    "id_objet": 149,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 570,
+    "id_objet": 149,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 571,
+    "id_objet": 58,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 572,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 574,
+    "id_objet": 58,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 575,
+    "id_objet": 58,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 577,
+    "id_objet": 58,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 579,
+    "id_objet": 15,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 580,
+    "id_objet": 15,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 581,
+    "id_objet": 15,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 582,
+    "id_objet": 15,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 583,
+    "id_objet": 65,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 586,
+    "id_objet": 15,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 587,
+    "id_objet": 58,
+    "objet": "article",
+    "vu": "oui"
+  },
+  {
+    "id_document": 588,
+    "id_objet": 47,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 589,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 590,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 591,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 592,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 593,
+    "id_objet": 56,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 594,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 595,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 596,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  },
+  {
+    "id_document": 597,
+    "id_objet": 53,
+    "objet": "article",
+    "vu": "non"
+  }
+]

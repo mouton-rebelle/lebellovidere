@@ -1,0 +1,758 @@
+[
+  {
+    "nom": "accepter_inscriptions",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "accepter_visiteurs",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_breves",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_captures_referers",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_logos",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_logos_survol",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_sites",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_statistiques",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "activer_syndic",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "adresse_neuf",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "adresse_site",
+    "valeur": "http://lebellovidere.net",
+    "impt": "non",
+    "maj": "2012-05-28 18:19:49"
+  },
+  {
+    "nom": "adresse_suivi",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "adresse_suivi_inscription",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "alea_ephemere",
+    "valeur": "5bf23b7519a5581f2f1c8694d0a6afd1",
+    "impt": "non",
+    "maj": "2020-01-05 18:23:50"
+  },
+  {
+    "nom": "alea_ephemere_ancien",
+    "valeur": "6fb73206661c77f819cad8ca163ad443",
+    "impt": "non",
+    "maj": "2020-01-05 18:23:50"
+  },
+  {
+    "nom": "alea_ephemere_date",
+    "valeur": "1578245030",
+    "impt": "non",
+    "maj": "2020-01-05 18:23:50"
+  },
+  {
+    "nom": "articles_chapeau",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:09:22"
+  },
+  {
+    "nom": "articles_descriptif",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "articles_modif",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "articles_mots",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:25:09"
+  },
+  {
+    "nom": "articles_ps",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:24:11"
+  },
+  {
+    "nom": "articles_redac",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:23:34"
+  },
+  {
+    "nom": "articles_redirection",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:24:49"
+  },
+  {
+    "nom": "articles_soustitre",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:09:22"
+  },
+  {
+    "nom": "articles_surtitre",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "articles_texte",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "articles_urlref",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:09:22"
+  },
+  {
+    "nom": "auto_compress_closure",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-04-16 13:21:09"
+  },
+  {
+    "nom": "auto_compress_css",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-04-18 01:03:20"
+  },
+  {
+    "nom": "auto_compress_http",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-04-16 11:53:23"
+  },
+  {
+    "nom": "auto_compress_js",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-04-18 01:10:11"
+  },
+  {
+    "nom": "barre_outils_public",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-04-17 22:28:32"
+  },
+  {
+    "nom": "breves_base_version",
+    "valeur": "1.0.0",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:53"
+  },
+  {
+    "nom": "charset",
+    "valeur": "utf-8",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "charset_collation_sql_base",
+    "valeur": "utf8_general_ci",
+    "impt": "non",
+    "maj": "2012-03-08 11:26:55"
+  },
+  {
+    "nom": "charset_sql_base",
+    "valeur": "utf8",
+    "impt": "non",
+    "maj": "2012-03-08 11:26:55"
+  },
+  {
+    "nom": "charset_sql_connexion",
+    "valeur": "utf8",
+    "impt": "non",
+    "maj": "2012-03-08 11:26:55"
+  },
+  {
+    "nom": "compagnon",
+    "valeur": "a:1:{s:6:\"config\";a:1:{s:7:\"activer\";s:3:\"non\";}}",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:52"
+  },
+  {
+    "nom": "compagnon_base_version",
+    "valeur": "1.0.0",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "config_precise_groupes",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:25:09"
+  },
+  {
+    "nom": "crayons",
+    "valeur": "a:3:{s:12:\"reduire_logo\";s:1:\"0\";s:13:\"exec_autorise\";s:0:\"\";s:9:\"barretypo\";s:2:\"on\";}",
+    "impt": "oui",
+    "maj": "2012-04-18 01:10:23"
+  },
+  {
+    "nom": "creer_preview",
+    "valeur": "oui",
+    "impt": "non",
+    "maj": "2012-03-18 18:25:41"
+  },
+  {
+    "nom": "date_calcul_rubriques",
+    "valeur": "1568657643",
+    "impt": "oui",
+    "maj": "2019-09-16 20:14:03"
+  },
+  {
+    "nom": "derniere_modif",
+    "valeur": "1571651685",
+    "impt": "non",
+    "maj": "2019-10-21 11:54:45"
+  },
+  {
+    "nom": "derniere_modif_article",
+    "valeur": "1571651685",
+    "impt": "oui",
+    "maj": "2019-10-21 11:54:45"
+  },
+  {
+    "nom": "derniere_modif_auteur",
+    "valeur": "1509697855",
+    "impt": "oui",
+    "maj": "2017-11-03 09:30:55"
+  },
+  {
+    "nom": "derniere_modif_document",
+    "valeur": "1570359997",
+    "impt": "oui",
+    "maj": "2019-10-06 13:06:37"
+  },
+  {
+    "nom": "derniere_modif_mot",
+    "valeur": "1568702399",
+    "impt": "oui",
+    "maj": "2019-09-17 08:39:59"
+  },
+  {
+    "nom": "derniere_modif_rubrique",
+    "valeur": "1568655851",
+    "impt": "oui",
+    "maj": "2019-09-16 19:44:11"
+  },
+  {
+    "nom": "descriptif_site",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "dir_img",
+    "valeur": "IMG/",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "documents_article",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:25:19"
+  },
+  {
+    "nom": "documents_date",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "documents_objets",
+    "valeur": "spip_articles",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:52"
+  },
+  {
+    "nom": "documents_rubrique",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "email_envoi",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "email_webmaster",
+    "valeur": "contact@lebellovidere.net",
+    "impt": "oui",
+    "maj": "2012-05-28 18:19:59"
+  },
+  {
+    "nom": "formats_documents_forum",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "formats_graphiques",
+    "valeur": "gif,jpg,png",
+    "impt": "non",
+    "maj": "2012-03-18 18:27:10"
+  },
+  {
+    "nom": "forums_afficher_barre",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "forums_publics",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-04-16 11:59:08"
+  },
+  {
+    "nom": "forums_texte",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "forums_titre",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "forums_urlref",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "forum_base_version",
+    "valeur": "1.2.1",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "forum_prive",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-04-16 11:59:21"
+  },
+  {
+    "nom": "forum_prive_admin",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "forum_prive_objets",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-04-16 11:59:21"
+  },
+  {
+    "nom": "gd_formats",
+    "valeur": "gif,jpg,png",
+    "impt": "non",
+    "maj": "2012-03-18 18:25:30"
+  },
+  {
+    "nom": "gd_formats_read",
+    "valeur": "gif,jpg,png",
+    "impt": "non",
+    "maj": "2012-03-18 18:25:30"
+  },
+  {
+    "nom": "gerer_trad",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "gerer_trad_objets",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:50"
+  },
+  {
+    "nom": "iecompat",
+    "valeur": "ifixpng",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "image_process",
+    "valeur": "gd2",
+    "impt": "non",
+    "maj": "2012-03-18 18:27:10"
+  },
+  {
+    "nom": "info_maj_spip",
+    "valeur": "3.0.4|<a class='info_maj_spip' href='http://files.spip.org/spip' title='3.2.7'>nouvelles versions</a>",
+    "impt": "non",
+    "maj": "2019-12-14 05:36:01"
+  },
+  {
+    "nom": "jours_neuf",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "langues_multilingue",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "langues_proposees",
+    "valeur": "ar,ast,ay,bg,br,bs,ca,co,cpf,cpf_hat,cs,da,de,en,eo,es,eu,fa,fon,fr,gl,he,hu,id,it,it_fem,ja,km,lb,my,nl,oc_auv,oc_gsc,oc_lms,oc_lnc,oc_ni,oc_ni_la,oc_prv,oc_va,pl,pt,pt_br,ro,ru,sk,sv,tr,vi,zh",
+    "impt": "non",
+    "maj": "2012-04-16 11:50:26"
+  },
+  {
+    "nom": "langues_utilisees",
+    "valeur": "fr",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "langue_site",
+    "valeur": "fr",
+    "impt": "non",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "max_taille_vignettes",
+    "valeur": "8100000",
+    "impt": "non",
+    "maj": "2012-04-16 11:52:58"
+  },
+  {
+    "nom": "mediabox",
+    "valeur": "a:14:{s:6:\"active\";s:3:\"oui\";s:21:\"traiter_toutes_images\";s:3:\"oui\";s:17:\"selecteur_galerie\";s:123:\"#documents_portfolio a[type='image/jpeg'],#documents_portfolio a[type='image/png'],#documents_portfolio a[type='image/gif']\";s:16:\"selecteur_commun\";s:9:\".mediabox\";s:10:\"splash_url\";s:0:\"\";s:4:\"skin\";s:9:\"bootstrap\";s:10:\"transition\";s:7:\"elastic\";s:5:\"speed\";s:3:\"200\";s:8:\"maxWidth\";s:3:\"90%\";s:9:\"maxHeight\";s:3:\"90%\";s:8:\"minWidth\";s:5:\"400px\";s:9:\"minHeight\";s:0:\"\";s:15:\"slideshow_speed\";s:4:\"2500\";s:7:\"opacite\";s:3:\"0.9\";}",
+    "impt": "oui",
+    "maj": "2012-04-16 13:25:34"
+  },
+  {
+    "nom": "medias_base_version",
+    "valeur": "1.1.1",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "messagerie_agenda",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "moderation_sites",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "mots_base_version",
+    "valeur": "2.1.0",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "mots_cles_forums",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "multi_articles",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "multi_objets",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:50"
+  },
+  {
+    "nom": "multi_rubriques",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "multi_secteurs",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "netpbm_formats",
+    "valeur": "",
+    "impt": "non",
+    "maj": "2012-03-18 18:25:30"
+  },
+  {
+    "nom": "nom_site",
+    "valeur": "Le bellovidere",
+    "impt": "oui",
+    "maj": "2015-04-30 17:20:19"
+  },
+  {
+    "nom": "nouvelle_install",
+    "valeur": "1",
+    "impt": "non",
+    "maj": "2012-03-08 11:26:55"
+  },
+  {
+    "nom": "objets_versions",
+    "valeur": "a:1:{i:0;s:13:\"spip_articles\";}",
+    "impt": "oui",
+    "maj": "2012-04-16 11:59:33"
+  },
+  {
+    "nom": "optimiser_table",
+    "valeur": "8",
+    "impt": "non",
+    "maj": "2020-01-12 02:57:07"
+  },
+  {
+    "nom": "organiseur_base_version",
+    "valeur": "1.1.1",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "pcre_u",
+    "valeur": "u",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "petitions_base_version",
+    "valeur": "1.1.6",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "plugin",
+    "valeur": "a:24:{s:4:\"SPIP\";a:5:{s:3:\"nom\";s:4:\"SPIP\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:5:\"3.0.4\";s:8:\"dir_type\";s:14:\"_DIR_RESTREINT\";s:3:\"dir\";s:0:\"\";}s:4:\"DUMP\";a:5:{s:3:\"nom\";s:4:\"Dump\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:5:\"1.6.7\";s:3:\"dir\";s:4:\"dump\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:6:\"IMAGES\";a:5:{s:3:\"nom\";s:6:\"Images\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:5:\"1.1.0\";s:3:\"dir\";s:14:\"filtres_images\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:5:\"FORUM\";a:5:{s:3:\"nom\";s:5:\"Forum\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"1.8.5\";s:3:\"dir\";s:5:\"forum\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:8:\"JQUERYUI\";a:5:{s:3:\"nom\";s:9:\"jQuery UI\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:6:\"1.8.21\";s:3:\"dir\";s:9:\"jquery_ui\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:8:\"MEDIABOX\";a:5:{s:3:\"nom\";s:8:\"MediaBox\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"0.8.0\";s:3:\"dir\";s:8:\"mediabox\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:6:\"MEDIAS\";a:5:{s:3:\"nom\";s:6:\"Medias\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:6:\"2.7.23\";s:3:\"dir\";s:6:\"medias\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:4:\"MOTS\";a:5:{s:3:\"nom\";s:4:\"Mots\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"2.4.4\";s:3:\"dir\";s:4:\"mots\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:11:\"MSIE_COMPAT\";a:5:{s:3:\"nom\";s:25:\"Support vieux navigateurs\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:5:\"1.2.0\";s:3:\"dir\";s:11:\"msie_compat\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:10:\"ORGANISEUR\";a:5:{s:3:\"nom\";s:10:\"Organiseur\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"0.8.3\";s:3:\"dir\";s:10:\"organiseur\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:9:\"PETITIONS\";a:5:{s:3:\"nom\";s:10:\"Pétitions\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"1.4.2\";s:3:\"dir\";s:9:\"petitions\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:11:\"PORTE_PLUME\";a:5:{s:3:\"nom\";s:11:\"Porte plume\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:6:\"1.11.5\";s:3:\"dir\";s:11:\"porte_plume\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:9:\"REVISIONS\";a:5:{s:3:\"nom\";s:10:\"Révisions\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"1.6.5\";s:3:\"dir\";s:9:\"revisions\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:8:\"SAFEHTML\";a:5:{s:3:\"nom\";s:8:\"SafeHTML\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:5:\"1.4.0\";s:3:\"dir\";s:8:\"safehtml\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:5:\"SITES\";a:5:{s:3:\"nom\";s:5:\"Sites\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"1.7.5\";s:3:\"dir\";s:5:\"sites\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:23:\"SQUELETTES_PAR_RUBRIQUE\";a:5:{s:3:\"nom\";s:23:\"Squelettes par Rubrique\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"1.1.0\";s:3:\"dir\";s:23:\"squelettes_par_rubrique\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:5:\"STATS\";a:5:{s:3:\"nom\";s:12:\"Statistiques\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"0.4.4\";s:3:\"dir\";s:12:\"statistiques\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:3:\"SVP\";a:5:{s:3:\"nom\";s:3:\"SVP\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:6:\"0.78.9\";s:3:\"dir\";s:3:\"svp\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:2:\"TW\";a:5:{s:3:\"nom\";s:19:\"TextWheel pour SPIP\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"0.8.9\";s:3:\"dir\";s:9:\"textwheel\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:4:\"URLS\";a:5:{s:3:\"nom\";s:13:\"Urls Etendues\";s:4:\"etat\";s:4:\"test\";s:7:\"version\";s:5:\"1.4.9\";s:3:\"dir\";s:13:\"urls_etendues\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:9:\"VERTEBRES\";a:5:{s:3:\"nom\";s:10:\"Vertèbres\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:5:\"1.2.1\";s:3:\"dir\";s:9:\"vertebres\";s:8:\"dir_type\";s:17:\"_DIR_PLUGINS_DIST\";}s:7:\"CRAYONS\";a:5:{s:3:\"nom\";s:7:\"Crayons\";s:4:\"etat\";s:6:\"stable\";s:7:\"version\";s:6:\"1.13.8\";s:3:\"dir\";s:20:\"auto/crayons/v1.13.8\";s:8:\"dir_type\";s:12:\"_DIR_PLUGINS\";}s:10:\"ITERATEURS\";a:5:{s:3:\"nom\";s:10:\"iterateurs\";s:7:\"version\";s:5:\"0.6.1\";s:4:\"etat\";s:1:\"?\";s:8:\"dir_type\";s:14:\"_DIR_RESTREINT\";s:3:\"dir\";s:0:\"\";}s:5:\"QUEUE\";a:5:{s:3:\"nom\";s:5:\"queue\";s:7:\"version\";s:5:\"0.6.6\";s:4:\"etat\";s:1:\"?\";s:8:\"dir_type\";s:14:\"_DIR_RESTREINT\";s:3:\"dir\";s:0:\"\";}}",
+    "impt": "non",
+    "maj": "2012-08-12 19:34:19"
+  },
+  {
+    "nom": "plugins_interessants",
+    "valeur": "a:22:{s:12:\"auto/crayons\";i:9;s:20:\"auto/crayons/v1.13.8\";i:29;s:13:\"urls_etendues\";i:30;s:9:\"vertebres\";i:30;s:9:\"textwheel\";i:30;s:23:\"squelettes_par_rubrique\";i:30;s:12:\"statistiques\";i:30;s:3:\"svp\";i:30;s:8:\"safehtml\";i:30;s:5:\"sites\";i:30;s:9:\"revisions\";i:30;s:9:\"petitions\";i:30;s:11:\"porte_plume\";i:30;s:10:\"organiseur\";i:30;s:4:\"mots\";i:30;s:11:\"msie_compat\";i:30;s:8:\"mediabox\";i:30;s:6:\"medias\";i:30;s:5:\"forum\";i:30;s:9:\"jquery_ui\";i:30;s:14:\"filtres_images\";i:30;s:4:\"dump\";i:30;}",
+    "impt": "oui",
+    "maj": "2012-08-12 19:34:19"
+  },
+  {
+    "nom": "plugin_attente",
+    "valeur": "a:0:{}",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:22"
+  },
+  {
+    "nom": "plugin_header",
+    "valeur": "spip(3.0.4),dump(1.6.7),images(1.1.0),forum(1.8.5),jqueryui(1.8.21),mediabox(0.8.0),medias(2.7.23),mots(2.4.4),msie_compat(1.2.0),organiseur(0.8.3),petitions(1.4.2),porte_plume(1.11.5),revisions(1.6.5),safehtml(1.4.0),sites(1.7.5),squelettes_par_rubrique(1.1.0),stats(0.4.4),svp(0.78.9),tw(0.8.9),urls(1.4.9),vertebres(1.2.1),crayons(1.13.8),iterateurs(0.6.1),queue(0.6.6)",
+    "impt": "non",
+    "maj": "2012-08-12 19:34:19"
+  },
+  {
+    "nom": "plugin_installes",
+    "valeur": "a:10:{i:0;s:5:\"forum\";i:1;s:6:\"medias\";i:2;s:4:\"mots\";i:3;s:10:\"organiseur\";i:4;s:9:\"petitions\";i:5;s:9:\"revisions\";i:6;s:5:\"sites\";i:7;s:12:\"statistiques\";i:8;s:3:\"svp\";i:9;s:13:\"urls_etendues\";}",
+    "impt": "non",
+    "maj": "2012-08-12 19:30:31"
+  },
+  {
+    "nom": "post_dates",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-18 18:09:24"
+  },
+  {
+    "nom": "prevenir_auteurs",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "preview",
+    "valeur": ",0minirezo,1comite,",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:50"
+  },
+  {
+    "nom": "proposer_sites",
+    "valeur": "0",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "quoi_de_neuf",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "revisions_base_version",
+    "valeur": "1.1.2",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "rubriques_descriptif",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "rubriques_texte",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "secret_du_site",
+    "valeur": "7d4537a2fe2fb463336a064cb5b7171df0231d7280bed55f5fe89034062f97b2",
+    "impt": "oui",
+    "maj": "2012-03-14 09:48:38"
+  },
+  {
+    "nom": "sites_base_version",
+    "valeur": "1.0.0",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:53"
+  },
+  {
+    "nom": "slogan_site",
+    "valeur": "",
+    "impt": "oui",
+    "maj": "2012-04-18 01:05:14"
+  },
+  {
+    "nom": "stats_base_version",
+    "valeur": "1.0.0",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:53"
+  },
+  {
+    "nom": "suivi_edito",
+    "valeur": "non",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "svp_base_version",
+    "valeur": "0.4.0",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "syndication_integrale",
+    "valeur": "oui",
+    "impt": "oui",
+    "maj": "2012-03-08 11:27:26"
+  },
+  {
+    "nom": "syndic_plug",
+    "valeur": "a:1:{s:45:\"http://plugins.spip.net/rss-+-selection-2-1-+\";i:632;}",
+    "impt": "oui",
+    "maj": "2012-04-16 11:39:18"
+  },
+  {
+    "nom": "taille_preview",
+    "valeur": "250",
+    "impt": "non",
+    "maj": "2012-03-18 18:25:41"
+  },
+  {
+    "nom": "tour_quota_cache",
+    "valeur": "1",
+    "impt": "oui",
+    "maj": "2020-01-12 13:05:24"
+  },
+  {
+    "nom": "type_urls",
+    "valeur": "propres2",
+    "impt": "oui",
+    "maj": "2012-03-18 18:26:05"
+  },
+  {
+    "nom": "urls_base_version",
+    "valeur": "1.1.3",
+    "impt": "oui",
+    "maj": "2012-08-12 19:30:20"
+  },
+  {
+    "nom": "version_html_max",
+    "valeur": "html4",
+    "impt": "oui",
+    "maj": "2012-04-16 11:50:50"
+  },
+  {
+    "nom": "version_installee",
+    "valeur": "19268",
+    "impt": "non",
+    "maj": "2012-08-12 19:30:20"
+  }
+]

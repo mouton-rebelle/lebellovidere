@@ -1,0 +1,54 @@
+[
+  {
+    "id_groupe": 1,
+    "titre": "Festival",
+    "descriptif": "",
+    "texte": "",
+    "unseul": "oui",
+    "obligatoire": "oui",
+    "tables_liees": "articles,rubriques",
+    "minirezo": "oui",
+    "comite": "oui",
+    "forum": "non",
+    "maj": "2012-08-09 14:41:00"
+  },
+  {
+    "id_groupe": 2,
+    "titre": "Type de spectacle",
+    "descriptif": "",
+    "texte": "",
+    "unseul": "non",
+    "obligatoire": "non",
+    "tables_liees": "articles",
+    "minirezo": "oui",
+    "comite": "oui",
+    "forum": "non",
+    "maj": "2012-03-18 18:28:51"
+  },
+  {
+    "id_groupe": 3,
+    "titre": "Placement",
+    "descriptif": "",
+    "texte": "",
+    "unseul": "oui",
+    "obligatoire": "oui",
+    "tables_liees": "articles",
+    "minirezo": "oui",
+    "comite": "oui",
+    "forum": "non",
+    "maj": "2012-04-17 23:40:17"
+  },
+  {
+    "id_groupe": 4,
+    "titre": "Helloasso",
+    "descriptif": "liens direct vers une billeterie",
+    "texte": "",
+    "unseul": "oui",
+    "obligatoire": "non",
+    "tables_liees": "articles",
+    "minirezo": "oui",
+    "comite": "oui",
+    "forum": "non",
+    "maj": "2016-10-16 20:12:49"
+  }
+]

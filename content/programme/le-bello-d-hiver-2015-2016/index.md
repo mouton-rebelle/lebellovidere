@@ -1,0 +1,16 @@
+
+---
+  title: Le Bello d'Hiver 2015-2016
+---
+
+**Oui, soyons fous !**
+
+Marchons sur la tête...
+Continuons à...
+Résistons aux...
+Espérons que...
+Faisons comme si...
+
+**D'arrache-pied !**
+
+On vous espère plein de sourires au coin de l'œil et l'esprit affûté.
