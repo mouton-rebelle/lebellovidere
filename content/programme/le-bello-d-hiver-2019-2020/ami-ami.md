@@ -1,6 +1,6 @@
 ---
 title: Ami - Ami
-tags: 
+tags:
   - théâtre
   - clown pour adulte
 dates:
@@ -16,8 +16,8 @@ Elle n’a jamais eu d’amis… Mais a décidé d’en avoir.
 
 Elle mettra en avant un maximum de ses qualités et fera tout pour paraître normale…**Jusqu’où iriez-vous pour être aimé ?**
 
+> Drôle, décalé, moderne, insolite.
+> &mdash; <cite>Télérama</cite>
 
-<quote>« Drôle, décalé, moderne, insolite. » Télérama</quote>
-
-<quote>« L’art du clown est très délicat à maîtriser et quand un artiste possède ce don, c’est admirable. Hélène Ventoura est de ceux-là. » Pariscope</quote>
-
+> L’art du clown est très délicat à maîtriser et quand un artiste possède ce don, c’est admirable. Hélène Ventoura est de ceux-là.
+> &mdash; <cite>Pariscope</cite>

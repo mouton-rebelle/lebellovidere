@@ -1,8 +1,6 @@
-
 ---
-  title: Le Bello d'Été 2017
+title: Le Bello d'Été 2017
 ---
-
 
 **J’ai Hi-Han !**
 Oui... **Cet été, j’ai Hi-Han...**

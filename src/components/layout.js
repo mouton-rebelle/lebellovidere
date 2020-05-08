@@ -5,12 +5,11 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
+import Header from "./header"
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-
-import Header from "./header"
-import "./layout.css"
+import { GlobalStyle, Container } from "./layout.style"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -20,28 +19,36 @@ const Layout = ({ children }) => {
           title
         }
       }
+      logo: file(relativePath: { eq: "bellovidere-logo.png" }) {
+        childImageSharp {
+          fixed(width: 145) {
+            height
+            src
+            srcSet
+            srcSetWebp
+            srcWebp
+            tracedSVG
+            width
+            base64
+            aspectRatio
+          }
+        }
+      }
     }
   `)
 
   return (
-    <>
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0px 1.0875rem 1.45rem`,
-          paddingTop: 0,
-        }}
-      >
+    <React.Fragment>
+      <GlobalStyle />
+      <Header
+        siteTitle={data.site.siteMetadata.title}
+        logo={data.logo.childImageSharp}
+      />
+      <Container>
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
-    </>
+      </Container>
+      <footer>© {new Date().getFullYear()}</footer>
+    </React.Fragment>
   )
 }
 

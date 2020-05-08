@@ -5,16 +5,26 @@ module.exports = {
     author: `Nicolas Delarbre`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: "gatsby-transformer-remark",
       options: {
-        name: "content",
-        path: `${__dirname}/content`,
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+            },
+          },
+        ],
       },
     },
     {
-      resolve: "gatsby-transformer-remark",
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/content`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -31,9 +41,6 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },

@@ -7,13 +7,13 @@ const { cleanTexte, parseDate } = utils
 // ====================== Tags map
 const tags = new Map(
   require("./spip_mots.json")
-    .filter(m => m.id_groupe === 2)
-    .map(m => [m.id_mot, m.titre])
+    .filter((m) => m.id_groupe === 2)
+    .map((m) => [m.id_mot, m.titre])
 )
 
 // ====================== Tags for shows
 const tagsForArticle = require("./spip_mots_liens.json")
-  .filter(ml => ml.objet === "article")
+  .filter((ml) => ml.objet === "article")
   .reduce((acc, ml) => {
     if (tags.has(ml.id_mot)) {
       if (!acc.has(ml.id_objet)) {
@@ -51,16 +51,16 @@ function cleanRub(r) {
     path: `${targetPath}programme/${slug}/`,
   }
 }
-const festivals = rub.filter(r => r.id_rubrique > 7).map(cleanRub)
+const festivals = rub.filter((r) => r.id_rubrique > 7).map(cleanRub)
 const shows = articles
   .filter(
-    article =>
+    (article) =>
       article.statut === "publie" &&
-      festivals.filter(f => f.id === article.id_rubrique).length === 1
+      festivals.filter((f) => f.id === article.id_rubrique).length === 1
   )
-  .map(article => {
+  .map((article) => {
     const filteredFestivals = festivals.filter(
-      f => f.id === article.id_rubrique
+      (f) => f.id === article.id_rubrique
     )
     const festival = filteredFestivals[0]
     const path = `${basePath}IMG/arton${article.id_article}`
@@ -86,13 +86,13 @@ const shows = articles
 
 // ====================== IMPORT FESTIVALS
 
-festivals.forEach(f => {
+festivals.forEach((f) => {
   if (!fs.existsSync(f.path)) fs.mkdirSync(f.path)
   fs.writeFileSync(
     `${f.path}index.md`,
     `
 ---
-  title: ${f.title}
+title: ${f.title}
 ---
 
 ${f.text}
@@ -104,8 +104,8 @@ ${f.text}
   }
   // ====================== IMPORT SHOWS
   shows
-    .filter(s => s.festival.id === f.id)
-    .forEach(s => {
+    .filter((s) => s.festival.id === f.id)
+    .forEach((s) => {
       fs.writeFileSync(
         `${f.path}${s.slug}.md`,
         `---
@@ -113,14 +113,14 @@ title: ${s.title.replace(":", " - ")}${
           s.tags && s.tags.length > 0
             ? `
 tags: 
-${s.tags.map(t => `  - ${t}`).join("\n")}`
+${s.tags.map((t) => `  - ${t}`).join("\n")}`
             : ""
         }${
           s.dates.length === 0
             ? ""
             : `
 dates:
-${s.dates.map(t => `  - ${t}`).join("\n")}`
+${s.dates.map((t) => `  - ${t}`).join("\n")}`
         }
 ---
 

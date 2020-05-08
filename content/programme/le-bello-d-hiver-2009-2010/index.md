@@ -1,6 +1,5 @@
-
 ---
-  title: Le Bello d'Hiver 2009-2010
+title: Le Bello d'Hiver 2009-2010
 ---
 
 Bonjour à tous,
@@ -10,4 +9,4 @@ En effet, vos revendications successives... pétitions, manifestations, hurlemen
 
 Le Bellovidère va ré-ouvrir ses portes !
 
-Musique, chansons et théâtre sont au rendez-vous des cette première "Bello d'Hiver"... 
+Musique, chansons et théâtre sont au rendez-vous des cette première "Bello d'Hiver"...
